@@ -1,0 +1,13 @@
+This repository contains a collection of projects demonstrating my expertise in utilizing Microsoft Azure Cloud Services for various data engineering tasks. Each project encapsulates distinct aspects of Azure services such as Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and others.
+
+Here's a breakdown of what you can expect to find:
+
+Azure Data Factory usage: These involve creating, scheduling, and managing data-driven workflows that ingrain ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) processes.
+
+Azure Databricks Notebooks: Showcasing big data analytics and machine learning workloads with Databricks, leveraging its integrated workspace in Azure.
+
+Azure Synapse Analytics usage: This section focuses on integrating and analyzing large volumes of data, showing the power of on-demand or provisioned resources within Azure.
+
+Each folder in the repository corresponds to a specific project. Each project includes the source code, necessary resources, documentation explaining the project's goals, the steps I took to achieve these goals, the challenges I faced, and the results. This repository serves as a comprehensive demonstration of my hands-on experience with Azure Cloud Services and my ability to use these services to solve complex data engineering problems.
+
+Feel free to explore, provide feedback, and fork the repository for your learning.
